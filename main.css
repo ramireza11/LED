@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(211, 211, 211);
+  text-align: center;
+}
+h1{
+  color: black;
+}
+h2{
+  color: grey;
+}
+.img-led {
+  width: 450px;
+  float: left;
+}
+
+div.center{
+  
+}
